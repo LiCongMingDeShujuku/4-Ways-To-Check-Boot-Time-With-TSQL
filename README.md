@@ -52,27 +52,7 @@ from
 
 [![WorksEveryTime](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://shitday.de/)
 
-## Build-Quality 
-| [![Build-Status](https://ci.appveyor.com/api/projects/status/pjxh5g91jpbh7t84?svg=true)](#) | [![Coverage](https://coveralls.io/repos/github/tygerbytes/ResourceFitness/badge.svg?branch=master)](#) | [![Nuget](https://img.shields.io/nuget/v/TW.Resfit.Core.svg?style=flat-square)](#) |
-|-|-|-|
-
-### Build History
-
-[![Build history](https://buildstats.info/appveyor/chart/tygerbytes/resourcefitness)](https://ci.appveyor.com/project/tygerbytes/resourcefitness/history)
-
-| #### | #### | 
-|------|------|
-| #### | #### |
-| #### | #### |
-
-
-| #### | #### |
-|--|--|
-|<table> <tr><th>Table 1 Heading 1</th><th>Table 1 Heading 2</th></tr><tr><td>Row 1 Column 1</td><td>Row 1 Column 2</td></tr> </table>| <table> <tr><th>Table 2 Heading 1</th><th>Table 2 Heading 2</th></tr><tr><td>Row 1 Column 1</td><td>Row 1 Column 2</td></tr> </table>|
-
-| Build Quality | Build History |
-|--|--|
-|<table> <tr><th>Table 1 Heading 1</th></tr><tr><td>Row 1 Column 1</td><tr><td>Row 2 Column 1</td><tr><td>Row 3 Column 1</td></tr> </table>| <table> <tr><th>Table 2 Heading 1</th></tr><tr><td>Row 1 Column 1</td></tr> </table>|
+## Build-Info
 
 | Build Quality | Build History |
 |--|--|
