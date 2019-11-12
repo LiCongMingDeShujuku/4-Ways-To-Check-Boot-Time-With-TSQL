@@ -76,7 +76,7 @@ from
 
 | Build Quality | Build History |
 |--|--|
-|<table> <tr><th>Table 1 Heading 1</th></tr><tr><td>Row 1 Column 1</td><tr><td>Row 2 Column 1</td><tr><td>Row 3 Column 1</td></tr> </table>| <table> <tr><th>Table 2 Heading 1</th></tr><tr><td>[![Build history](https://buildstats.info/appveyor/chart/tygerbytes/resourcefitness)](https://ci.appveyor.com/project/tygerbytes/resourcefitness/history)</td></tr> </table>|
+|<table> <tr><th>Table 1 Heading 1</th></tr><tr><td>Row 1 Column 1</td><tr><td>Row 2 Column 1</td><tr><td>Row 3 Column 1</td></tr> </table>| <table> <tr><th>[![Build history](https://buildstats.info/appveyor/chart/tygerbytes/resourcefitness)](https://ci.appveyor.com/project/tygerbytes/resourcefitness/history)</th></tr><tr><td>Row 1 Column 1</td></tr> </table>|
 
 
 
