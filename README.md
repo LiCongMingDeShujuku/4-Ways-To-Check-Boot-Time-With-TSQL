@@ -53,7 +53,7 @@ from
 [![WorksEveryTime](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://shitday.de/)
 
 ## Build-Quality 
-| [![Build status](https://ci.appveyor.com/api/projects/status/pjxh5g91jpbh7t84?svg=true)](#) | [![Coveralls](https://coveralls.io/repos/github/tygerbytes/ResourceFitness/badge.svg?branch=master)](#) | [![nuget](https://img.shields.io/nuget/v/TW.Resfit.Core.svg?style=flat-square)](#) |
+| [![Build-Status](https://ci.appveyor.com/api/projects/status/pjxh5g91jpbh7t84?svg=true)](#) | [![Coverage](https://coveralls.io/repos/github/tygerbytes/ResourceFitness/badge.svg?branch=master)](#) | [![Nuget](https://img.shields.io/nuget/v/TW.Resfit.Core.svg?style=flat-square)](#) |
 |-|-|-|
 
 ### Build History
@@ -76,7 +76,7 @@ from
 
 | Build Quality | Build History |
 |--|--|
-|<table> <tr><th>Table 1 Heading 1</th></tr><tr><td>Row 1 Column 1</td><tr><td>Row 2 Column 1</td><tr><td>Row 3 Column 1</td></tr> </table>| <table> <tr><th>[![Build history](https://buildstats.info/appveyor/chart/tygerbytes/resourcefitness)](https://ci.appveyor.com/project/tygerbytes/resourcefitness/history)</th></tr><tr><td>Row 1 Column 1</td></tr> </table>|
+|<table> <tr><th>[![Build-Status](https://ci.appveyor.com/api/projects/status/pjxh5g91jpbh7t84?svg=true)](#)</th></tr><tr><td>[![Coverage](https://coveralls.io/repos/github/tygerbytes/ResourceFitness/badge.svg?branch=master)](#) </td><tr><td>[![Nuget](https://img.shields.io/nuget/v/TW.Resfit.Core.svg?style=flat-square)](#)</td><tr><td>Row 3 Column 1</td></tr> </table>| <table> <tr><th>[![Build history](https://buildstats.info/appveyor/chart/tygerbytes/resourcefitness)](https://ci.appveyor.com/project/tygerbytes/resourcefitness/history)</th></tr><tr><td>Row 1 Column 1</td></tr> </table>|
 
 
 
