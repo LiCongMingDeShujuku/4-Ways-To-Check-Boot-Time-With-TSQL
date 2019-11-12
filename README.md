@@ -39,12 +39,12 @@ select
 ,   (select create_date from sys.databases where name = 'tempdb')
  
 select
-    'boot_time'     = left([os_boot], 19)
-,   'days_since_boot'   = datediff(day, [os_boot], getdate())
-,   'sql__start'        = left([tempdb_created], 19)
+    'boot_time'     		= left([os_boot], 19)
+,   'days_since_boot'   	= datediff(day, [os_boot], getdate())
+,   'sql__start'        	= left([tempdb_created], 19)
 ,   'days_since_sql_start'  = datediff(day, [os_boot], getdate())
 ,   'default_trace_start'   = left([default_trace_start], 19)
-,   'first_session'     = left([first_session], 19)
+,   'first_session'     	= left([first_session], 19)
 from
     @last_boot
 
